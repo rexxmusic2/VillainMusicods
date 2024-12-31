@@ -20,8 +20,7 @@ from telethon.tl.functions.phone import (
 @app.on_message(filters.video_chat_started)
 async def brah(_, msg):
     await msg.reply("**ɪ ᴀᴍ ᴀᴘᴘʀᴇᴄɪᴀᴛɪɴɢ ʏᴏᴜʀ ᴘʀᴇsᴇɴᴄᴇ. ❤️
-
-"🎉 Vᴏɪᴄᴇ ᴄʜᴀᴛ ɪs sᴛᴀʀᴛɪɴɢ ɴᴏᴡ! Jᴏɪɴ ᴜs ғᴏʀ sᴏᴍᴇ ɢʀᴇᴀᴛ ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴ ᴀɴᴅ ғᴜɴ. Cᴀɴ’ᴛ ᴡᴀɪᴛ ᴛᴏ ʜᴇᴀʀ ʏᴏᴜ ᴀʟʟ!"**")
+🎉 Vᴏɪᴄᴇ ᴄʜᴀᴛ ɪs sᴛᴀʀᴛɪɴɢ ɴᴏᴡ! Jᴏɪɴ ᴜs ғᴏʀ sᴏᴍᴇ ɢʀᴇᴀᴛ ᴄᴏɴᴠᴇʀsᴀᴛɪᴏɴ ᴀɴᴅ ғᴜɴ. Cᴀɴ’ᴛ ᴡᴀɪᴛ ᴛᴏ ʜᴇᴀʀ ʏᴏᴜ ᴀʟʟ!"**")
 
 
 # vc off
